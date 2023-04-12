@@ -1,0 +1,15 @@
+\\serveurir1\Etudiants\kevinmeledjebanhoro\solutionBDDpersonel\biblioBDDpersonel\bin\Debug\biblioBDDpersonel.dll.config
+\\serveurir1\Etudiants\kevinmeledjebanhoro\solutionBDDpersonel\biblioBDDpersonel\bin\Debug\biblioBDDpersonel.dll
+\\serveurir1\Etudiants\kevinmeledjebanhoro\solutionBDDpersonel\biblioBDDpersonel\bin\Debug\biblioBDDpersonel.pdb
+\\serveurir1\Etudiants\kevinmeledjebanhoro\solutionBDDpersonel\biblioBDDpersonel\bin\Debug\Devart.Data.dll
+\\serveurir1\Etudiants\kevinmeledjebanhoro\solutionBDDpersonel\biblioBDDpersonel\bin\Debug\Devart.Data.Linq.dll
+\\serveurir1\Etudiants\kevinmeledjebanhoro\solutionBDDpersonel\biblioBDDpersonel\bin\Debug\Devart.Data.MySql.dll
+\\serveurir1\Etudiants\kevinmeledjebanhoro\solutionBDDpersonel\biblioBDDpersonel\bin\Debug\Devart.Data.MySql.Linq.dll
+\\serveurir1\Etudiants\kevinmeledjebanhoro\solutionBDDpersonel\biblioBDDpersonel\obj\Debug\biblio_BDD_personel.csproj.CoreCompileInputs.cache
+\\serveurir1\Etudiants\kevinmeledjebanhoro\solutionBDDpersonel\biblioBDDpersonel\obj\Debug\biblio_BDD_personel.csproj.CopyComplete
+\\serveurir1\Etudiants\kevinmeledjebanhoro\solutionBDDpersonel\biblioBDDpersonel\obj\Debug\biblioBDDpersonel.dll
+\\serveurir1\Etudiants\kevinmeledjebanhoro\solutionBDDpersonel\biblioBDDpersonel\obj\Debug\biblioBDDpersonel.pdb
+D:\solutionBDDpersonel\biblioBDDpersonel\obj\Debug\biblio_BDD_personel.csproj.AssemblyReference.cache
+D:\solutionBDDpersonel\biblioBDDpersonel\obj\Debug\biblio_BDD_personel.csproj.CoreCompileInputs.cache
+D:\solutionBDDpersonel\biblioBDDpersonel\obj\Debug\biblioBDDpersonel.dll
+D:\solutionBDDpersonel\biblioBDDpersonel\obj\Debug\biblioBDDpersonel.pdb

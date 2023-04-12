@@ -1,0 +1,13 @@
+﻿<Window x:Class="appliBDDpersonel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:appliBDDpersonel"
+        mc:Ignorable="d"
+        Title="Apligestion personnels" Height="450" Width="800">
+    <Grid Margin="0,0,-6.4,1">
+        <DataGrid x:Name="datagridService" HorizontalAlignment="Left" Height="227" Margin="228,57,0,0" VerticalAlignment="Top" Width="156" Background="#FFFFC0C0" RenderTransformOrigin="0.514,0.495"/>
+
+    </Grid>
+</Window>

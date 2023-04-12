@@ -1,0 +1,26 @@
+﻿<Window x:Class="appliBDDpersonel.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:appliBDDpersonel"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="5f3580eae9d5c14a2b332c108e554a53.jpg"/>
+        </Grid.Background>
+        <Label Content="Nom :" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="356,30,0,0" Width="126" Height="25"/>
+        <Label Content="Prénom :" HorizontalAlignment="Left" Margin="356,86,0,0" VerticalAlignment="Top" Width="73"/>
+        <Label Content="Service :" HorizontalAlignment="Left" Margin="356,148,0,0" VerticalAlignment="Top" Width="73"/>
+        <Label Content="Formation :" HorizontalAlignment="Left" Margin="356,212,0,0" VerticalAlignment="Top" Width="73"/>
+        <Label Content="Téléphone :" HorizontalAlignment="Left" Margin="356,278,0,0" VerticalAlignment="Top" Width="73"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="356,58,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="356,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged_1"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="356,178,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged_2"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="356,250,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged_3"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="356,309,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged_4"/>
+        <ListBox HorizontalAlignment="Left" Height="400" VerticalAlignment="Top" Width="232" Margin="10,10,0,0" SelectionChanged="ListBox_SelectionChanged"/>
+
+    </Grid>
+</Window>
